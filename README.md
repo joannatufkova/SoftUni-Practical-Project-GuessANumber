@@ -12,7 +12,7 @@ The player wins if they can guess the number.
 [Click here](https://github.com/joannatufkova/SoftUni-Practical-Project-GuessANumber/blob/main/GuessANumberProject.java)
 
 ## Screenshots
-![image](![image](https://user-images.githubusercontent.com/50846039/198285740-3d953a29-70fd-4e12-960d-f7f620aacdcc.png))
+![This is an image](https://user-images.githubusercontent.com/50846039/198285740-3d953a29-70fd-4e12-960d-f7f620aacdcc.png)
 
 ## Live Demo
 You can play the game directly in your Web browser [here](https://replit.com/@joannatufkova/GuessTheNumber#Main.java)
